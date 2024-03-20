@@ -1,0 +1,19 @@
+{
+  "name": "aula-3-exercicio-pratico",
+  "version": "1.0.0",
+  "description": "exercicio pratico da aula 3 de arqquitetura de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L4arbac/aula-3-arquitetura-de-sofware.git"
+  },
+  "author": "Jacó Cabral De Jesus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L4arbac/aula-3-arquitetura-de-sofware/issues"
+  },
+  "homepage": "https://github.com/L4arbac/aula-3-arquitetura-de-sofware#readme"
+}
